@@ -1,2 +1,2 @@
 # chotu
-anvesh devotes training
+anvesh devops training
